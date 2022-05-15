@@ -36,7 +36,7 @@
 .container .content .tittle{
     font-size: 45px;
     text-transform: uppercase;
-    color: #2980b9;
+    color: #FF8D29;
 }
 .container .content p{
     color: #666;
@@ -62,7 +62,7 @@
 
 } 
 .container .content .count-down .box span{
-    color: #2980b9;
+    color: #FF8D29;
     font-size: 20px;
 
 }
@@ -71,7 +71,7 @@
     padding: 8px 50px;
     margin: 10px 0;
     font-size: 17px;
-    background: #2980b9;
+    background: #FF8D29;
     color: #fff;
     transition: .2s ease-out;
 }
